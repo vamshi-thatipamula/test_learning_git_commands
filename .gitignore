@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Allow MainFolder itself
+!.gitignore
+
+# Allow test_repository folder
+!test_repository/
+!test_repository/**
