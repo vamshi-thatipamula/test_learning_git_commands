@@ -1,5 +1,7 @@
 # Git Notes
 
 - git add .
-- git commit -m "Add notes.md (closes #2)"
+- git commit -m "Add notes.md"
 - git push
+- git pull
+
