@@ -1,7 +1,7 @@
 # Git Notes
 
 - git add .
-- git commit -m "Add notes.md"
+- git commit -m "message"
 - git push
 - git pull
 
